@@ -1,10 +1,12 @@
 # front-vue
- this project contain CRUD of users with vue js
+ this project contain CRUD of users with vue js and bootstrap
 
 ## Technical specifications of the environment
 
 * **vue** - `@vue/cli 5.0.4`
 * **node** - `v14.16.0`
+* **axios** - `v0.27.2`
+* **bootstrap** - `v5.2.0`
 
 
 ## Installation
