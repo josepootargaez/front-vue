@@ -1,5 +1,18 @@
 # front-vue
 
+## Technical specifications of the environment
+
+* **vue** - `@vue/cli 5.0.4`
+* **node** - `v14.16.0`
+
+
+## Installation
+ clone the repository
+
+### summary-transactions-front
+    git clone https://github.com/josepootargaez/front-vue.git
+    cd front-vue
+
 ## Project setup
 ```
 npm install
@@ -9,16 +22,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
