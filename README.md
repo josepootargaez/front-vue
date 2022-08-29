@@ -1,4 +1,5 @@
 # front-vue
+ this project contain CRUD of users with vue js
 
 ## Technical specifications of the environment
 
@@ -18,7 +19,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development port 8080
 ```
 npm run serve
 ```
