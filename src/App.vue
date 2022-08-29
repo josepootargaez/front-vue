@@ -1,15 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<div class="container">
+  <img alt="Vue logo"  style="width:10%;" src="./assets/user.png">
+  <templateindex msg="Welcome to Your Vue.js App"/>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import templateindex from './components/templateindex.vue'
+import "bootstrap/dist/css/bootstrap.css";
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    templateindex
   }
 }
 </script>
